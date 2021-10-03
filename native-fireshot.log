@@ -1,0 +1,11 @@
+03-10-21 20:09:22.798  Started
+03-10-21 20:09:22.800  With command line: C:\Users\85620\Downloads\fireshot-chrome-plugin.exe 
+03-10-21 20:09:22.801  Target engine is: Chromium
+03-10-21 20:09:23.152  Using folder for deployment: C:\Users\85620\AppData\Roaming\FireShot\0.99.15
+03-10-21 20:09:23.156  Created directory with result: 1
+03-10-21 20:09:23.159  Copying myself...
+03-10-21 20:09:23.365  Extracting manifest...
+03-10-21 20:09:23.759  Written 642 bytes
+03-10-21 20:09:23.760  Done
+03-10-21 20:09:23.762  Writing registry...
+03-10-21 20:09:23.763  Successfully registered to HKEY_CURRENT_USER
